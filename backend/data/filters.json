@@ -1,0 +1,21 @@
+[
+  {
+    "id": "licencias",
+    "label": "Licencias",
+    "color": "#F6C1C1",
+    "keywords": [
+      "LICENCIA",
+      "2338"
+    ]
+  },
+  {
+    "id": "cursos",
+    "label": "Cursos",
+    "color": "#C9E4DE",
+    "keywords": [
+      "CAPACITACIÓN",
+      "TALLER",
+      "CURSO"
+    ]
+  }
+]
